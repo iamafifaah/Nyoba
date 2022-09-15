@@ -1,0 +1,7 @@
+git
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/iamafifaah/web-basic-seal.git
+git status ## to know git position on main or master
+git push -u origin main
